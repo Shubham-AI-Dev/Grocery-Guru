@@ -1,0 +1,30 @@
+[
+  {
+    "id": "u001",
+    "name": "Admin",
+    "email": "admin@freshcart.com",
+    "phone": "9792126604",
+    "password": "admin123",
+    "role": "admin",
+    "avatar": "👨‍💼"
+  },
+  {
+    "id": "u002",
+    "name": "Rahul Sharma",
+    "email": "user@freshcart.com",
+    "phone": "8888888888",
+    "password": "user123",
+    "role": "user",
+    "avatar": "👤"
+  },
+  {
+    "id": "u003",
+    "name": "SHUBHAM",
+    "email": "",
+    "phone": "9125426604",
+    "password": "SHUBHAM123",
+    "role": "user",
+    "avatar": "👤",
+    "createdAt": "2026-05-03T10:41:17.038Z"
+  }
+]

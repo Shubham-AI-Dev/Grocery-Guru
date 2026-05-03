@@ -1,0 +1,24 @@
+{
+  "name": "grocery-guru",
+  "version": "1.0.0",
+  "description": "Grocery Guru \u2014 Premium Grocery Shopping App",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "keywords": [
+    "grocery",
+    "ecommerce",
+    "shopping"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.1",
+    "nodemailer": "^8.0.7",
+    "uuid": "^14.0.0"
+  }
+}
